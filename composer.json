@@ -13,13 +13,13 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3 || ^8.0",
-        "brianium/paratest": "^6.8.1",
-        "pestphp/pest-plugin": "^1.1.0"
+        "php": "^8.2",
+        "brianium/paratest": "^7.4",
+        "pestphp/pest-plugin": "^2.1"
     },
     "require-dev": {
-        "pestphp/pest": "^1.22.3",
-        "pestphp/pest-dev-tools": "^1.0.0"
+        "pestphp/pest": "^2.34",
+        "pestphp/pest-dev-tools": "^2.10"
     },
     "conflict": {
         "pestphp/pest": "<1.16",
